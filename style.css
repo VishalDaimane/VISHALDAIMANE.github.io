@@ -368,3 +368,13 @@ nav .fa{
         font-size: 14px;
     }
 }
+@media only screen and (min-width:601px){
+    nav .fa-bars,
+    nav .fa-circle-xmark{
+        display: none;
+    }
+    
+}
+#services:hover{
+    background-color: #111111;
+}
